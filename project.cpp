@@ -35,7 +35,7 @@ public:
     cout << "      INTERNSHIP DECISION FORGE      " << endl;
     cout << "=====================================" << endl;
     cout << "Welcome to the Internship Decision Forge!" << endl;
-    cout << "This program helps you choose the best option based on multiple Internship option based on various criteria." << endl;
+    cout << "This program helps you choose the best option based on multiple Internship companies option based on various criteria." << endl;
     cout << "Enter criteria with their importance and score each option to find the best decision." << endl;
     cout << "-------------------------------------------------------------" << endl;
     
